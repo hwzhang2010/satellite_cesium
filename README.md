@@ -1,4 +1,4 @@
-# sat_cesium
+# satellite_cesium
 
 ## Project setup
 ```
